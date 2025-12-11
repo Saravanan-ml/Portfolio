@@ -2,38 +2,39 @@ Why This Repository?
 
 I created this repository to:
 
-Strengthen my HTML & CSS fundamentals
+*Strengthen my HTML & CSS fundamentals
 
-Practice clean and responsive UI design
+*Practice clean and responsive UI design
 
-Build mini-projects to improve my frontend development skills
+*Build mini-projects to improve my frontend development skills
 
-Track my growth in understanding website structure and styling
+*Track my growth in understanding website structure and styling
 
 📚 What I Am Learning
+
 🔹 HTML (Structure)
 
-Semantic tags
+*Semantic tags
 
-Forms & inputs
+*Forms & inputs
 
-Lists, tables & media elements
+*Lists, tables & media elements
 
-Basic layout structuring
+*Basic layout structuring
 
-Accessibility-friendly markup
+*Accessibility-friendly markup
 
 🔹 CSS (Styling)
 
-Selectors & properties
+*Selectors & properties
 
-Colors, typography & spacing
+*Colors, typography & spacing
 
-Flexbox & Grid layouts
+*Flexbox & Grid layouts
 
-Responsive design
+*Responsive design
 
-Hover effects & transitions
+*Hover effects & transitions
 
 🧩 Projects Included
 
